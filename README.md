@@ -24,5 +24,6 @@ Well, not all features are available as of now and there are quite a few planned
 * Once spending goes negative, savings starts to get taken out
 * Account setting implemented
 * Account creation
+* Expenses page
 
 ..and maybe some more? I dunno, not a commercial product with a set audience or deadline. However, I am taking user input and improving the program as I go, just very slowly due to circumstances.
